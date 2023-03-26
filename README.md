@@ -2,9 +2,9 @@
 วิธีติดตั้ง APK
 1.เข้าไปที่ลิงค์ https://i.diawi.com/t1mLr8
 
--หรือ qrcode
+หรือ qrcode
 
--![image](https://user-images.githubusercontent.com/84262934/227770448-f5db699a-f534-45e0-b7a0-3199930e4246.png)
+![image](https://user-images.githubusercontent.com/84262934/227770448-f5db699a-f534-45e0-b7a0-3199930e4246.png)
 
 2.กด ดาวน์โหลด
 
