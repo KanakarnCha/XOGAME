@@ -50,12 +50,17 @@
         android:layout_height="wrap_content">
 
         <androidx.appcompat.widget.AppCompatButton
+            android:background="@drawable/btn_sty"
+            android:layout_marginRight="10dp"
+            android:id="@+id/btnBack"
             android:text="กลับ"
             android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
         <androidx.appcompat.widget.AppCompatButton
+            android:background="@drawable/btn_sty"
+            android:id="@+id/btnRestart"
             android:text="เริ่มใหม่"
             android:layout_weight="1"
             android:layout_width="match_parent"

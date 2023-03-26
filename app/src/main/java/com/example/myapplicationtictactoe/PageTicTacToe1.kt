@@ -1,10 +1,9 @@
 package com.example.myapplicationtictactoe
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
-import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.myapplicationtictactoe.databinding.ActivityPageTicTacToe1Binding
 
 class PageTicTacToe1 : AppCompatActivity() {
@@ -29,5 +28,18 @@ class PageTicTacToe1 : AppCompatActivity() {
             }
         }
         binding.recycleView.layoutManager = myLinearLayoutManager
+        binding.btnBack.setOnClickListener {
+
+            finish()
+            startActivity(Intent(this,MainActivity::class.java))
+
+        }
+        binding.btnRestart.setOnClickListener {
+            val intent = intent
+            finish()
+            startActivity(intent)
+
+
+        }
     }
 }
