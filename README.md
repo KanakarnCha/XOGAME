@@ -1,6 +1,8 @@
 "# XOGAME" 
 วิธีติดตั้ง APK
-1.เข้าไปที่ลิงค์ https://i.diawi.com/t1mLr8
+1.เข้าไปที่ลิงค์ https://drive.google.com/file/d/1uBdkJVd5E7Bv3gkZ_tOjdv2JuP19kl12/view?usp=sharing
+
+หรือ https://i.diawi.com/t1mLr8
 
 หรือ qrcode
 
