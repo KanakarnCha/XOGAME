@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/84262934/227816703-bde8e1da-438f-44ca-9684-f33ee32cccf8.png)
 
-2.กด ดาวน์โหลด
+2.กด ดาวน์โหลดแอพ
 
 3.ทำการติดตั้งได้เฉพาะใน ระบบ Android
 
